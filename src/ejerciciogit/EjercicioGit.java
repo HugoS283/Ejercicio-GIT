@@ -6,7 +6,7 @@ package ejerciciogit;
 
 /**
  *
- * @author dam
+ * @author Hugo S
  */
 public class EjercicioGit {
 
